@@ -2,8 +2,8 @@
 // =========================================================================
 // 1. PATHWAYS & YOUR EXACT VISUAL THRESHOLDS
 // =========================================================================
-inputParentDir = "/Users/danie/Desktop/NEUN GFAP NOX4 max projection/"; 
-outputCsvPath  = "/Users/danie/Desktop/FIJI NEUN GFAP NOX4/Astrocyte_GFAP_NOX4_Results.txt";
+inputParentDir = "Choose the Input Directory containing your images"; 
+outputCsvPath  = "Choose the Output Folder"; 
 
 astroThreshold  = 46;  // ch2: 46-255
 nox4Threshold   = 58;  // ch3: 58-255
