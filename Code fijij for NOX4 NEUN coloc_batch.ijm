@@ -12,7 +12,7 @@ neuronKeyword   = "_ch01_";  // Neurons (Green)
 nox4Keyword     = "_ch03_";  // NOX4 (Red)
 // =========================================================================
 
-File.makeDirectory("/Users/danie/Desktop/FIJI NEUN GFAP NOX4/");
+File.makeDirectory("Choose the Output Folder");
 if (File.exists(outputCsvPath)) { File.delete(outputCsvPath); }
 File.append("Animal_Folder,NOX4_Percent_Area_Inside_Neurons", outputCsvPath);
 
