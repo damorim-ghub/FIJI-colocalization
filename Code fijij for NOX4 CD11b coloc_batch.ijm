@@ -2,8 +2,8 @@
 // =========================================================================
 // 1. PATHWAYS & YOUR EXACT VISUAL THRESHOLDS
 // =========================================================================
-inputParentDir = "/Users/danie/Desktop/CD11b NOX4 max projection_confocal images/"; 
-outputCsvPath  = "/Users/danie/Desktop/FIJI/Microglia_NOX4_Master_Results.txt";
+inputParentDir = "Choose the Input Directory containing your images"; 
+outputCsvPath  = "Choose the Output Folder"; 
 
 greenManualThreshold = 55;  // Your locked Microglia threshold
 redManualThreshold   = 58;  // Your locked NOX4 threshold
